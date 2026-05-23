@@ -11,7 +11,7 @@ A simple terminal-based messenger written in Python.
 
 ## How to use
 
-1. Run `messenger.py`
+1. Run messenger.py
 2. Choose an option from the menu
 3. Send and view messages
 
